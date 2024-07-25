@@ -1,4 +1,4 @@
-// Function to click the "Skip Ad" button if it appears and is visible
+
 function clickSkipAdButton() {
     console.log('Checking for skip button...');
 
@@ -7,7 +7,7 @@ function clickSkipAdButton() {
 
     if (skipButton && isElementVisible(skipButton)) {
         skipButton.click();
-        console.log('Skipped ad!');
+
     }
 }
 

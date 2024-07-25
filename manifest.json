@@ -1,8 +1,8 @@
 {
     "manifest_version": 2,
-    "name": "YouTube Ad Skipper",
+    "name": "no-ads",
     "version": "1.0",
-    "description": "Automatically skips YouTube ads when the 'Skip Ad' button appears.",
+    "description": "It does what you think it does.",
     "permissions": [
         "https://*.youtube.com/"
     ],
