@@ -27,7 +27,7 @@ If you liked this extension or it helped you out, please consider donating to su
 
 1. Download the Extension ZIP File:
 
-- Click [here]("https://github.com/JRH89/youtube-ad-skipper/releases/download/v1.0/youtube-ad-skipper.zip")
+- By clicking [HERE](https://github.com/JRH89/youtube-ad-skipper/releases/download/v1.0/youtube-ad-skipper.zip).
 
 OR
 
