@@ -31,7 +31,7 @@ If you liked this extension or it helped you out, please consider donating to su
 
 OR
 
-- Go to the Releases page of this repository.
+- Go to the [Releases Page](https://github.com/JRH89/youtube-ad-skipper/releases/tag/v1.0) of this repository.
 
 - Download the latest release ZIP file.
 
