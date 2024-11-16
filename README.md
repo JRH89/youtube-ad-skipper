@@ -4,6 +4,8 @@ Welcome to the YouTube Ad Skipper Chrome Extension! This extension automatically
 
 Developed by [Hooker Hill Studios](https://www.hookerhillstudios.com)
 
+Get it FREE from the [Chrome Web Store](https://chromewebstore.google.com/detail/no-ads/fjpknmdnbdnnbbpeohoffhajemeglcba?authuser=4&hl=en)
+
 ## Features
 
 - Automatically skips ads on YouTube.
@@ -29,7 +31,7 @@ If you liked this extension or it helped you out, please consider donating to su
 
 - By clicking [HERE](https://github.com/JRH89/youtube-ad-skipper/releases/download/v1.0/youtube-ad-skipper.zip).
 
-OR
+     OR
 
 - Go to the [Releases Page](https://github.com/JRH89/youtube-ad-skipper/releases/tag/v1.0) of this repository.
 
@@ -72,11 +74,6 @@ OR
     - Check if the extension is enabled in 'chrome://extensions/'.
 
     - Verify that the selector for the "Skip Ad" button is still valid. YouTube occasionally updates their site, which might require updates to the extension.
-
-- Permissions Issue:
-
-    - Make sure you have granted all necessary permissions for the extension to run.
-
 
 ## Support
 
